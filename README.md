@@ -1,2 +1,2 @@
-# Bot-Host
-Discord Bot Host.
+# Zueira-DiscordBot
+Under Testing!
